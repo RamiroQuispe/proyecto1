@@ -14,8 +14,8 @@
     <body>
         <h1>PAGINA PRINCIPAL</h1>
         <ul>
-            <li>INICIOS</li>
-            <li>QUIENES SOMOS</li>
+            <li><a href="index.jsp">INICIOS</a></li>
+            <li><a href="quienes.jsp">QUIENES SOMOS</a></li>
             <li>SERVICIOS</li>
             <li>PORTAFOLIOS</li>
             <li>CONTACTOS</li>
